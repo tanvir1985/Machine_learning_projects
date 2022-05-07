@@ -1,0 +1,1 @@
+Simple machine learning project to determine breast cancer type. Data is available on sk-learn.
